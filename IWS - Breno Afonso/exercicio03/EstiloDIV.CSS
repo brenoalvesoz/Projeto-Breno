@@ -1,0 +1,44 @@
+header{
+	text-align: center;
+	font-size: 40px;
+	color: white;
+
+}
+p {
+	font-family: "Verdana, Arial, Courier New";
+	font-size: 20px;
+	color: #add8ef;
+	text-align: justify ;
+  }
+h1{
+	color:#0abab5 ;
+  }
+h2{
+	color:#0abab5 ;
+  }
+
+ul{
+	font-family: "Arial, Verdana";
+	color:#0abab5;
+	font-style: italic;
+	font-size: 18px;
+  }
+#PRINCIPAL{
+	position: relative;
+	margin: 10px 10px auto;
+	width: 100%;
+	max-width: 960px;
+	}
+
+#Logo{
+	margin:10px 10px auto;
+	width: 200px;
+	height: 61px;
+}
+#s01{
+	position: relative;
+	width: 940px;
+	background-color:#353633;
+	padding: 10px;
+	margin:10px;
+}
