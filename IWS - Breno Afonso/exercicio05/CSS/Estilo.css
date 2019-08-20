@@ -1,0 +1,92 @@
+body{
+	background-color: #d3d3d3;
+}
+main{
+	width: 960px;
+	height: auto;
+	background-color: black;
+	margin: 10px auto;
+	padding: 1px 10px;
+}
+header{
+	height: 150px;
+	background-color: #a928e7;
+	padding: 10px;
+	border-width: 1px;
+	text-align: center;
+	margin-top:10px ;
+	margin-bottom:10px ;
+
+}
+nav{
+	height: 100px;
+	background-color: #8b3fb0;
+	padding: 10px;
+	border-width: 1px;
+	text-align: center;
+	margin-top:10px ;
+	margin-bottom:10px ;
+}
+
+#noticia{
+	height: auto;
+	background-color: #844c9e;
+	padding: 10px;
+	border-width: 1px;
+	text-align: center;
+	margin-top:10px ;
+	margin-bottom:10px ;
+	display: table;
+	
+}
+footer{
+	height: 120px;
+	background-color: #74617b;
+	padding: 10px;
+	border-width: 1px;
+	text-align: center;
+	margin-top:10px ;
+	margin-bottom:10px ;
+}
+#texto01{
+	width: 280px;
+	padding: 5px;
+	background-color: #e1b7f2;
+	float: left;
+	margin-left: 10px;
+	
+}
+#texto02{
+	width: 280px;
+	padding: 5px;
+	margin-bottom: 10px;
+	background-color: #e1b7f2;
+	float: left;
+	margin-left: 10px;
+	
+}
+#texto03{
+	width: 280px;
+	padding: 5px;
+	background-color: #e1b7f2;
+	float: left;
+	margin-left: 10px;
+	
+}
+#texto04{
+	width: 920px;
+	padding: 5px;
+	margin-top: 10px;
+	background-color: #e1b7f2;
+	float: left;
+	
+
+}
+#Escola{
+	height: 150px;
+	width: 300px;
+	float: right;
+}
+#paragrafo4{
+	
+}
