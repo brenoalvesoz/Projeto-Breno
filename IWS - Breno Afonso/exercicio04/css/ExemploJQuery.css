@@ -1,0 +1,45 @@
+	body{
+		background-image: url("../;imagens/imagem01.jpg");
+		background-color: black;
+	}
+	#Principal{
+		margin: 10px auto;
+		width: 960px;
+		background-color:#353839;
+		border: 2px solid;
+		border-color: #add8e6;
+		padding: 10px;
+
+	}
+	#Azul{
+		font-family: "Papyrus";
+		color:#add8e6;
+		font-size: 18px;
+		background-color: rgb(65 68 83);
+		padding: 15px 10px ;
+		border: 2px solid;
+
+	}
+	#Ciano{
+		font-family: "Verdana";
+		color:#0abab5;
+		font-size: 18px;
+		background-color: rgb(71 71 56);
+		padding: 15px 10px ;
+		border: 2px solid;
+	}
+	#Roxo{
+		font-family: "Courier New";
+		color: #9370db;
+		font-size: 18px;
+		background-color: rgb(61 70 60);
+		padding: 15px 10px ;
+		border: 2px solid;
+	}
+	h2{
+		color: #ffcbdb;
+	}
+	h1{
+		color: #c8a2c8;
+	}
+
