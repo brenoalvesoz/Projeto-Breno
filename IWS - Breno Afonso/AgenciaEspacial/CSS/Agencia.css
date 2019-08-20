@@ -1,0 +1,100 @@
+body{
+	height: 2000px;
+}
+#data{
+	font-size: 15px;
+	float:left; 
+	font-family: "Arial";
+}
+#agencia{
+	font-size: 15px;
+	text-align: center;
+	font-family: "Arial";
+}
+#F1{
+	color: rgb(16 134 0);
+	font-family: "Monotype Corsiva";
+	font-size: 50px;
+}
+main{
+	margin: 30px;
+}
+#Banner{
+	width: 1345px;
+	height: 580px;
+	margin-bottom: 100px;
+}
+#links{
+	float: right;
+	font-size: 25px;
+}
+#links a{
+	text-decoration: none;
+	color: rgb(153 153 153);
+	font-family:"Trebuched MS", Arial, Helvetica, sans-serif;
+}
+#foto01{
+	width: 318px;
+	height: 318px;
+	margin-right: 20px
+}
+#foto02{
+	width: 318px;
+	height: 318px;
+	margin-right:20px;
+}
+#foto03{
+	width: 318px;
+	height: 318px;
+	margin-right:20px;
+}
+#foto04{
+	width: 318px;
+	height: 318px;
+}
+#titulos{
+	font-size: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-family:"Trebuched MS", Arial, Helvetica, sans-serif;
+	color: rgb(101 96 90);
+}
+#T01{
+	width: 318px;
+	height: auto;
+	float:left;
+	margin-right: 22px
+}
+#T02{
+	width: 318px;
+	height: auto;
+	float:left;
+	margin-right: 25px
+}
+#T03{
+	width: 318px;
+	height: auto;
+	float:left;
+	margin-right: 25px
+}
+#T04{
+	width: 318px;
+	height: auto;
+	float:left;
+}
+nav{
+	font-size: 20px;
+	margin-top: 40px;
+	font-family:"Trebuched MS", Arial, Helvetica, sans-serif;
+	color: rgb(101 96 90);
+}
+footer{
+	font-family:"Trebuched MS", Arial, Helvetica, sans-serif;
+	color: rgb(101 96 90);
+}	
+#rod01{
+	font-size: 20px;
+}
+#rod02{
+	font-size:15px;
+}
